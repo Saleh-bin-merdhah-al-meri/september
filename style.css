@@ -17,7 +17,6 @@ body {
 
 .header-left{
     color:white;
-    /* padding:2%; */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -33,7 +32,6 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-right: 10%;
     display:flex;
-    /* justify-content: space-evenly; */
 }
 .hem{
     padding-right: 10%;
